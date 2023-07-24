@@ -5,7 +5,11 @@ A calculator that will assist in determining the number of backsplash tile cases
 I was recently looking to purchase a case of [backsplash floor and wall, peel-and-stick tiles](https://www.homedepot.com/c/localad?auto_locate=true&auto_store=true&flyer_run_id=867085&flyer_type_name=catalog) for a small home project. One problem that I ran into, was that some websites did not have a square footage calculator from my input inches. I wanted to input width and length in inches of my surface area (wall or floor), and get an output for the number of cases that I needed to purchase to cover the surface area of my home project, so I built this Java program to calculate what I needed. Enjoy!
 
 <div align="center">
-    <img src="./docs/images/Tile_Example.png" width="75%" height="75%" alt="Demo">
+    <img src="./docs/images/Tile_1.jpeg" width="19%" height="19%" alt="Demo">
+    <img src="./docs/images/Tile_2.jpeg" width="19%" height="19%" alt="Demo">
+    <img src="./docs/images/Tile_3.jpeg" width="19%" height="19%" alt="Demo">
+    <img src="./docs/images/Tile_4.jpeg" width="19%" height="19%" alt="Demo">
+    <img src="./docs/images/Tile_5.jpeg" width="19%" height="19%" alt="Demo">
 </div>
 
 ## Installation Instructions
