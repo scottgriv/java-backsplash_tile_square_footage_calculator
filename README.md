@@ -40,6 +40,6 @@ This repository is released under the **MIT License**. [See LICENSE](LICENSE) fo
 
 ## Credit
 **Author:** [Scott Grivner](https://github.com/scottgriv)<br>
-**Email:** scott.grivner@gmail.net<br>
+**Email:** scott.grivner@gmail.com<br>
 **Website:** [scottgrivner.dev](https://www.scottgrivner.dev)<br>
-**Reference:** [Main Branch](https://github.com/scottgriv/java-backsplash_square_footage_calculator)
+**Reference:** [Main Branch](https://github.com/scottgriv/java-backsplash_tile_square_footage_calculator)
