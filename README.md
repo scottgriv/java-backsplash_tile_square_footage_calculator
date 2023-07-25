@@ -35,5 +35,5 @@ This repository is released under the **MIT License**. [See LICENSE](LICENSE) fo
 ## Credit
 **Author:** [Scott Grivner](https://github.com/scottgriv)<br>
 **Email:** scott.grivner@gmail.net<br>
-**Website:** [nightowllabs.net](https://www.nightowllabs.net)<br>
+**Website:** [scottgrivner.dev](https://www.scottgrivner.dev)<br>
 **Reference:** [Main Branch](https://github.com/scottgriv/java-backsplash_square_footage_calculator)
