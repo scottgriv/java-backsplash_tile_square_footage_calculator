@@ -48,8 +48,11 @@ public class BacksplashCalculator {
         // Convert total area to square feet
         double totalAreaSquareFeet = totalAreaSquareInches / 144;
 
-        // Output the calculated square footage of the surface area
-        System.out.println("\nThe total square feet of the surface area is: " + totalAreaSquareFeet + " sq ft.\n");
+        // Round the square feet for the output
+        double roundedTotalAreaSquareFeet = Math.round(totalAreaSquareFeet * 100.0) / 100.0;
+
+        // Output the calculated square feet of the surface area
+        System.out.println("\nThe total square feet of the surface area is: " + roundedTotalAreaSquareFeet + " sq ft.\n");
 
         double caseWidthInches = 0;
         double caseLengthInches = 0;
