@@ -2,7 +2,7 @@
 
 <project name="java-backsplash_tile_square_footage_calculator" default="dist" basedir=".">
     <description>
-        Simple example build file
+        java-backsplash_tile_square_footage_calculator build file
     </description>
 
     <!-- set global properties for this build -->
