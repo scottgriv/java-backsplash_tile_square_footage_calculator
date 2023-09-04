@@ -1,6 +1,20 @@
 # OS generated files
 
 .DS_Store?
-*.DS_Store
-*.class
+*.DS_Store 
 *.code-workspace
+
+# Exclude build directory
+/build/
+
+# Exclude distribution directory
+/dist/
+
+# Other common excludes for Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.properties
+*.tmp
