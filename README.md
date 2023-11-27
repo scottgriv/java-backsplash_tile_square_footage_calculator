@@ -37,6 +37,7 @@ A console based calculator that will assist in determining the number of backspl
 - [Getting Started](#getting-started)
     - [Installation](#installation)
     - [Usage](#usage)
+- [Resources](#resources)
 - [License](#license)
 - [Credits](#credits)
 
