@@ -23,7 +23,7 @@ A console based calculator that will assist in determining the number of backspl
 
 <div align="center">
     <a href="" target="_blank">
-        <img src="./docs/images/demo.png" style="width: 50%;"/>
+        <img src="./docs/images/demo.png" style="width: 60%;"/>
     </a>
     <br>
     <i>Application Preview</i>
