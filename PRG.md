@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Silver <br>
 **Technology:** Java <br>
 **Category:** Console Application <br>
-**Order:** 5 <br>
+**Order:** 10 <br>
 
 ## Parameters
 
